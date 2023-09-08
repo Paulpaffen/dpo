@@ -1,0 +1,5 @@
+combo;descuento;nombre;papas;gaseosa
+combo corral;0.1;corral;papas medianas;gaseosa
+combo corral queso;0.1;corral queso;papas medianas;gaseosa
+combo todoterreno;0.1;todoterreno;papas grandes;gaseosa
+combo especial;0.1;especial;papas medianas;gaseosa
